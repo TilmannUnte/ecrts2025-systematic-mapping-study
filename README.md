@@ -3,7 +3,9 @@
 This repository provides access to the dataset as gathered in a systematic
 mapping study on evaluation practices in the real-time systems research community
 between 2017 and 2024. A paper presenting the process and analyzing the results
-will be presented at ECRTS 2025 in Brussels, Belgium.
+has been presented at ECRTS 2025 in Brussels, Belgium.
+The paper has been published as public access and is available here:
+https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECRTS.2025.12
 
 Further, the repository contains the python script used to conduct the data
 analysis and create visualizations.
